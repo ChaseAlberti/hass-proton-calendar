@@ -1,6 +1,6 @@
 # Example Home Assistant add-on repository
 
-This repository can be used as a "blueprint" for add-on development to help you get started.
+This Home Assistant add-on will donwload a calendar from proton Calendar as an .ics file.
 
 Add-on documentation: <https://developers.home-assistant.io/docs/add-ons>
 
