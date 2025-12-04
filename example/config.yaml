@@ -1,9 +1,9 @@
 # https://developers.home-assistant.io/docs/add-ons/configuration#add-on-config
-name: Home Assistant Proton Calendar Add-on
+name: HASS Proton Calendar
 version: "1.0.0"
 slug: example
 description: Home Assistant Proton Calendar Add-on
-url: "https://github.com/ChaseAlberti/hass-proton-calendar/edit/main/example"
+url: "https://github.com/ChaseAlberti/hass-proton-calendar/edit/main/hass-proton-calendar"
 arch:
   - aarch64
   - amd64
