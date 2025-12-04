@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: Home Assistant Proton Calendar Add-on Repository
+name: Chase Alberti's Home Assistant Add-on Repository
 url: 'https://github.com/ChaseAlberti/hass-proton-calendar'
 maintainer: Chase Alberti
